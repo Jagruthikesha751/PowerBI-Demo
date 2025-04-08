@@ -1,14 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Report",
-    "displayName": "Dealer Metrics"
+    "type": "SemanticModel",
+    "displayName": "Hub Model Daily"
   },
   "config": {
     "version": "2.0",
-
-    "logicalId": "db4b8dcf-3a77-94f8-485c-25795007b4c2"
-  
-
+    "logicalId": "c2da22a8-1cf4-4e60-8e7b-6209f40d981f"
   }
 }
